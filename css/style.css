@@ -212,6 +212,9 @@ media query start
         padding-left: 1rem;
         padding-right: 1rem;
     }
+    .social-interaction-item h2 {
+        padding-top: 30px;
+    }
     .social-interaction-item {
         position: relative;
     }
